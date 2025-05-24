@@ -2,7 +2,7 @@
 
 **Cloud Architect | Expert Microsoft Azure**  
 _Aquitaine Nord Gironde, Laruscade_  
-📞 +33 7 89 54 66 27 | 📧 rechauve@gmail.com
+📞 +33 7 89 54 66 27 | 📧 rechauve@gmail.com | https://www.linkedin.com/in/remichauvet
 
 ---
 
