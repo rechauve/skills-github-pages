@@ -2,36 +2,15 @@
 
 **Cloud Architect | Expert Microsoft Azure**  
 _Aquitaine Nord Gironde, Laruscade_  
-📞 +33 7 89 54 66 27 | 📧 rechauve@gmail.com | [![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/remichauvet/)
+📞 +33 7 89 54 66 27 | 📧 rechauve@gmail.com | <a href="https://www.linkedin.com/in/remichauvet/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="20" style="vertical-align:middle;"/>
+</a>
 
 ---
 
 ## Profil
 
-Avec plus de 20 ans d'expérience dans l'expertise technique, la relation client, la vente de solutions et de services, je souhaite poursuivre ma carrière en tant que Cloud Architect spécialisé sur Microsoft Azure.
-
----
-
-## Compétences Techniques
-
-- Microsoft Azure (Cloud Native, Migration, DevOps, Monitoring)
-- Terraform / Infrastructure as Code
-- GitLab / GitHub
-- Kubernetes, AKS, ACA
-- Atlassian Suite
-- Office 365
-
-### Compétences Non Techniques
-
-- Travail en équipe
-- Leadership
-- Autonomie
-- Speaker
-
-### Langues
-
-- Français (natif)
-- Anglais (professionnel)
+Avec plus de 20 ans d'expérience dans l'expertise technique, la relation client, la vente de solutions et de services, je suis aujourd'hui Cloud Architect spécialisé sur Microsoft Azure.
 
 ---
 
@@ -129,6 +108,29 @@ _Février 2004 – Avril 2007_
 
 **Ingénieur Systèmes et Support**  
 _Janvier 2001 – Janvier 2004_  
+
+---
+
+## Compétences Techniques
+
+- Microsoft Azure (Cloud Native, Migration, DevOps, Monitoring)
+- Terraform / Infrastructure as Code
+- GitLab / GitHub
+- Kubernetes, AKS, ACA
+- Atlassian Suite
+- Office 365
+
+### Compétences Non Techniques
+
+- Travail en équipe
+- Leadership
+- Autonomie
+- Speaker
+
+### Langues
+
+- Français (natif)
+- Anglais (professionnel)
 
 ---
 
