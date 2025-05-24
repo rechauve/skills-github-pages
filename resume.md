@@ -1,233 +1,149 @@
-# EXPERIENCES
+# Rémi CHAUVET
 
-## CLARANET
+**Cloud Architect | Expert Microsoft Azure**  
+_Aquitaine Nord Gironde, Laruscade_  
+📞 +33 7 89 54 66 27 | 📧 rechauve@gmail.com
 
-```
-Juillet 2022 - Aujourd’hui / 2 an et 11 mois
-```
-## Cloud Architect – Microsoft Azure Expert
+---
 
-- Exécution de projets de transformation cloud pour des clients français et
-    internationaux.
-- Travaille avec l’équipe de compte Microsoft et l'équipe FastTrack
-- Réalisation des ateliers techniques pour définir l'architecture à déployer en
-    suivant les principes du Cloud Adoption Framework de Microsoft.
-- Evaluation de la maturité cloud des clients à l'aide du framework Microsoft CAF
-    (Cloud Adoption Framework).
-- Déploiement d'une architecture complexe (landing zone) avec des outils DevOps
-    (Iac, Git, Ansible, scripting).
-- Expert technique dans les projets de migration onprem to Azure
-- Déploiement des services cloud nécessaires (Sécurité, Identité, Réseaux..).
-- Deploiement d’architecture Cloud Native (AKS, ACA, APIM, Function...)
-- Déploiement et configuration du monitoring et des alertes
-- Contribution à la mise à jour des modules terraform développés par Claranet
-    (MR, mises à jour de code, ajouts de fonctionnalités).
-- Travail avec l'équipe indienne de Claranet, transfert de connaissances
+## Profil
 
-```
-Janvier 2018 - Juin 2022 / 4 ans et 6 mois
-```
-## Ingénieur Avant-vente Cloud – Spécialiste Microsoft Azure
+Avec plus de 20 ans d'expérience dans l'expertise technique, la relation client, la vente de solutions et de services, je souhaite poursuivre ma carrière en tant que Cloud Architect spécialisé sur Microsoft Azure.
 
-- Principal ingénieur avant-vente sur les leads Microsoft Azure
-- Co-animateur de la relation partenaire stratégique avec Microsoft
-- Acteur dans les différents programmes commerciaux, techniques et marketing
-- Accompagnement des BU du groupe dans la stratégie de transformation des
-    clients vers le Cloud Public MS Azure
-- Support technique aux commerciaux, qualification des opportunités
-- Accompagnement des clients dans leur stratégie “Go to Cloud”
-- Construction d’offres packagées et “sur mesure” autour des services Microsoft
-    Azure (IaaS, PaaS, SaaS) avec une approche technique et financière.
-- Proposition de prestations d’infogérance adaptées (24/7 – GTI – GTR)
-- Point de contact entre les équipes de delivery et le business development
-- Validation des solutions techniques avec les experts de la practice Azure
+---
 
-## INDEPENDENT
+## Compétences Techniques
 
-```
-Juillet 2016 – Décembre 2017 / 1 an et 6 mois
-```
-## Consultant Cloud Microsoft Azure
+- Microsoft Azure (Cloud Native, Migration, DevOps, Monitoring)
+- Terraform / Infrastructure as Code
+- GitLab / GitHub
+- Kubernetes, AKS, ACA
+- Atlassian Suite
+- Office 365
 
-- Accompagnement des clients dans leurs projets de transformation digitale autour
-    des technologies CLOUD de Microsoft
-- Construction d’offres Cloud basées sur les services Microsoft Azure (approche
-    technique et financière) :
-       - Intelligent data (Data Factory, ServerLess, Cognitives Services, ML)
-       - Mass migration (Azure Site Recovery, PowerShell, Infrastructure as
-          code)
-       - Modern Web Site (App Service, Azure SQL Database, Redis)
-- Cadrage technique et contribution aux réponses à appels d’offres
-- Missions de conseil et d’expertise (animation de présentations, démonstrations
-    et POC sur les solutions Cloud Microsoft)
-- Veille technologique des solutions CLOUD Public (Microsoft Azure, AWS)
-- Accompagnement dans la phase d’étude des projets (choix des solutions
-    technologiques)
-- Accompagnement dans la gestion des projets techniques (coordination des
-    actions des parties prenantes et facilitation des échanges)
+### Compétences Non Techniques
 
-## Compétences techniques
-
-### Compétences non techniques
-
-```
-remichauvet
-```
-```
-Cloud Architect
-Microsoft Azure Expert
-```
-## Informations personnelles
-
-```
-Avec plus de 20 ans d'expérience
-dans l'expertise technique, la
-relation client, la vente de solutions
-et de services, je souhaite
-poursuivre ma carrière en tant que
-Cloud Architect spécialisé sur MS
-```
-## Azure
-
-## Compétences
-
-## Microsoft Azure
-
-## Terraform
-
-```
-Gitlab / Github
-Kubernetes
-Monitoring
-Atlassian Suite
-Office 365
-```
-```
-Aquitaine Nord Gironde
-Laruscade
-```
-## +33 7 89 54 66 27
-
-```
-rechauve@gmail.com
-```
-## Rémi CHAUVET
+- Travail en équipe
+- Leadership
+- Autonomie
+- Speaker
 
 ### Langues
 
-## Français
+- Français (natif)
+- Anglais (professionnel)
 
-## Anglais
+---
 
-## Autonomie
+## Expérience Professionnelle
 
-## Speaker
+### CLARANET
 
-```
-Travail en équipe
-Leadership
-```
+**Cloud Architect – Microsoft Azure Expert**  
+_Juillet 2022 – Aujourd’hui_  
+- Exécution de projets de transformation cloud pour des clients français et internationaux.
+- Travail avec l’équipe de compte Microsoft et l'équipe FastTrack.
+- Animation d'ateliers techniques pour définir l'architecture selon le Cloud Adoption Framework de Microsoft.
+- Evaluation de la maturité cloud des clients (Framework CAF).
+- Déploiement d'architectures complexes (landing zone) avec des outils DevOps (IaC, Git, Ansible, scripting).
+- Expertise technique sur les projets de migration on-premises vers Azure.
+- Mise en œuvre des services cloud (Sécurité, Identité, Réseaux, etc.).
+- Déploiement d’architectures Cloud Native (AKS, ACA, APIM, Functions...).
+- Mise en place du monitoring et des alertes.
+- Contribution à l'évolution des modules Terraform internes.
+- Collaboration avec l'équipe indienne de Claranet, transfert de connaissances.
 
-## MICROSOFT France
+**Ingénieur Avant-vente Cloud – Spécialiste Microsoft Azure**  
+_Janvier 2018 – Juin 2022_  
+- Responsable avant-vente sur les opportunités Microsoft Azure.
+- Co-animation de la relation partenaire stratégique avec Microsoft.
+- Participation aux programmes commerciaux, techniques et marketing.
+- Accompagnement des BU dans la stratégie de transformation cloud.
+- Support technique aux équipes commerciales, qualification des opportunités.
+- Construction d’offres packagées et sur mesure autour de Microsoft Azure (IaaS, PaaS, SaaS).
+- Proposition de prestations d’infogérance (24/7 – GTI – GTR).
+- Interface entre delivery et business development.
+- Validation des solutions techniques en collaboration avec les experts Azure.
 
-```
-Octobre 2014 – Juin 2016 / 1 an et 9 mois
-```
-## Technical Account Manager
+### Consultant Indépendant
 
-- Accompagnement des clients (Suivi technique et commercial)
-- Conseiller de confiance des clients : fourniture de conseils précieux sur les
-    opérations et l'optimisation du système d'informations pour apporter de la valeur
-    à l'entreprise en utilisant les solutions Microsoft
-- Point de contact principal du client garantissant que les besoins clients sont
-    satisfaits et les problèmes résolus rapidement
-- Gestion de demandes de support diversifiées et complexes
-- Évaluation des risques, des besoins clients et recommandation des offres de
-    services appropriées pour répondre de manière proactive
-- Pilotage des prestations de services afin d'obtenir une satisfaction et une
-    confiance accrues des clients
-- Partage des meilleures pratiques avec les équipes
-- Gestion des relations avec les équipes commerciales et techniques Microsoft
+**Consultant Cloud Microsoft Azure**  
+_Juillet 2016 – Décembre 2017_  
+- Accompagnement de la transformation digitale des clients (Cloud Microsoft).
+- Construction d’offres Cloud basées sur Microsoft Azure :  
+   - Intelligent Data (Data Factory, Serverless, Cognitive Services, ML)  
+   - Mass Migration (Azure Site Recovery, PowerShell, IaC)  
+   - Modern Web (App Service, Azure SQL Database, Redis)
+- Rédaction de réponses à appels d’offres, cadrage technique.
+- Conseil, animation de présentations, démonstrations, POC.
+- Veille technologique (Azure, AWS).
+- Conseil sur le choix des solutions technologiques et gestion de projets techniques.
 
-## SCC France
+### MICROSOFT France
 
-```
-Novembre 2013 – Septembre 2014 / 11 mois
-```
-## Consultant Avant-vente (Microsoft Services Business Unit)
+**Technical Account Manager**  
+_Octobre 2014 – Juin 2016_  
+- Suivi technique et commercial de clients grands comptes.
+- Conseiller de confiance, conseil sur l’optimisation des SI avec les solutions Microsoft.
+- Gestion et résolution des demandes complexes.
+- Evaluation des risques clients et proposition d’offres de services.
+- Pilotage des prestations pour la satisfaction client.
+- Partage de bonnes pratiques en interne.
+- Gestion de la relation équipes commerciales et techniques Microsoft.
 
-- Rédaction des réponses techniques aux appels d’offres
-- Construction de l’offre de service « Migration et Gestion du Poste de Travail »
-- Cadrage de missions (mise en œuvre et migration de solutions Microsoft : Office
-    365, Azure, Intune, Cloud Privé, AD, Exchange, SCCM)
-- Speaker aux Microsoft Techdays 2014 (System Center : Cloud privé)
-- Réalisation de démos sur les services Azure (IaaS, AzureAD, MFA)
-- Veille technologique sur les solutions Cloud Microsoft (Office 365, Azure IaaS,
-    Intune)
+### SCC France
 
-## ITS Group
+**Consultant Avant-vente (Microsoft Services Business Unit)**  
+_Novembre 2013 – Septembre 2014_  
+- Rédaction de réponses techniques à appels d’offres.
+- Construction d’offres « Migration et Gestion du Poste de Travail ».
+- Cadrage et mise en œuvre de solutions Microsoft : Office 365, Azure, Intune, Cloud Privé, AD, Exchange, SCCM.
+- Intervenant Microsoft Techdays 2014 (System Center, Cloud privé).
+- Réalisation de démos Azure (IaaS, AzureAD, MFA).
+- Veille technologique Microsoft Cloud.
 
-```
-Février 2011 – Octobre 2013 / 2 ans et 9 mois
-```
-## Consultant Avant-vente - Responsable de l'offre virtualisation
+### ITS Group
 
-- Rédaction des réponses techniques aux appels d’offres
-- Développement des offres de services
-- Création de l’offre « Hosted VDI » avec les BU Infogérance et mobilité
-- Réalisation de POC
+**Consultant Avant-vente – Responsable de l'offre virtualisation**  
+_Février 2011 – Octobre 2013_  
+- Rédaction de réponses techniques à appels d’offres.
+- Développement d’offres de services.
+- Création de l’offre « Hosted VDI ».
+- Réalisation de POC.
 
-## SkyRecon Systems (Groupe Arkoon / Netasq - StormShield)
+### SkyRecon Systems (Groupe Arkoon/Netasq - StormShield)
 
-```
-Juillet 2008 – Janvier 2011 / 2 ans et 7 mois
-Consultant Systèmes et Sécurité
-```
-- Expertise technique, avant-vente et formation des clients
-- Conception et déploiement des architectures
-- Scripting Windows
+**Consultant Systèmes et Sécurité**  
+_Juillet 2008 – Janvier 2011_  
+- Expertise technique, avant-vente, formation clients.
+- Conception et déploiement d’architectures.
+- Scripting Windows.
 
-```
-SYLIS France (Groupe OPEN) / 7 ans et 6 mois
-```
-## Mai 2007 – Juin 2008
+### SYLIS France (Groupe OPEN)
 
-## Consultant Microsoft et Symantec
+**Consultant Microsoft et Symantec**  
+_Mai 2007 – Juin 2008_  
 
-## Février 2004 – Avril 2007
+**Chef de projets / Administrateur systèmes**  
+_Février 2004 – Avril 2007_  
 
-## Chef de projets - Administrateur systèmes
+**Ingénieur Systèmes et Support**  
+_Janvier 2001 – Janvier 2004_  
 
-## Janvier 2001 – Janvier 2004
+---
 
-```
-Ingénieur Systèmes et Support
-```
-## Formation
+## Formation & Certifications
 
-**Symantec**
+- **BTS Electronique** | 1998
+- **Symantec Deployment Solution** | 2007
+- **VMWARE VTSP** | 2012
+- **VEEAM VMTSP** | 2013
 
-## Deployment Solution | 2007
+---
 
-## Accreditations
+## Événements / Interventions
 
-## VEEAM VMTSP | 2013
-
-## VMWARE VTSP | 2012
-
-## Evènements
-
-**Microsoft** - Partners Events
-
-## Microsoft - Azure Days
-
-## Microsoft - Experiences (Speaker)
-
-## Microsoft - Techready (internal)
-
-**Diplômes
-BTS Electronique | 1998**
-
-## Certifications
-
-
+- Microsoft – Partners Events
+- Microsoft – Azure Days
+- Microsoft – Experiences (Speaker)
+- Microsoft – Techready (interne)
